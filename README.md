@@ -1,2 +1,2 @@
 # invie-github
-Aprendiendo GitHub con una pagina invie-guitarras
+Aprendiendo GitHub con una pagina invie-guitarras by @platzi
